@@ -1,0 +1,6 @@
+{
+  "patient_id": "12345",
+  "symptoms": ["fever", "cough", "fatigue"],
+  "notes": "Patient has been feeling unwell for three days.",
+  "timestamp": "2025-11-01T08:00:00"
+}
