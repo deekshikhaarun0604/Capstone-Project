@@ -1,0 +1,5 @@
+{
+  "patient_id": "12345",
+  "symptoms": ["fever", "cough"],
+  "timestamp": "2025-11-01T08:00:00"
+}
